@@ -1,0 +1,8 @@
+{
+  "CollegeID": ["1", "2", "3", "4", "5", "6", "7", "8"],
+  "Name": ["Priyanshu", "Yashodhra", "Abhishek", "Tanmay", "Samriddha", "Anjali", "Samrat", "Nikhil"],
+  "SubjectCode": ["123", "67", "62", "77", "81", "56", "92", "22"],
+  "CourseStartDate": ["02/08/2018", "09/03/2018", "08/05/2018", "05/11/2019", "03/06/2019", "05/11/2019", "07/10/2020", "06/07/2015"],
+  "StudentDepartment": ["IT", "Computer", "ENTC", "Electronics", "Electrical", "Civil", "Chemical", "Mechanical"]
+}
+
