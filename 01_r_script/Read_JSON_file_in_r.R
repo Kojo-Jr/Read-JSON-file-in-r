@@ -1,6 +1,6 @@
 # Read JSON File in R
 # Install the package
-install.packages("rjson", dependencies = TRUE)
+# install.packages("rjson", dependencies = TRUE)
 
 # load the package 
 library(rjson)
@@ -8,7 +8,7 @@ library(rjson)
 library(jsonlite)
 
 # path of the file using fromJSON
-JsonData <- fromJSON(txt = "./DTS_Project/studentData.json")
+JsonData <- fromJSON(txt = "./00_data/studentData.json")
 print(JsonData)
 
 # convert to a data frame
